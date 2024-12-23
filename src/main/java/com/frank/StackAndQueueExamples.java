@@ -50,6 +50,7 @@ public class StackAndQueueExamples {
 		myStack.push("Riker");   // Add an element to top of the Stack
 		myStack.push("Geordi");  // Add an element to top of the Stack
 		myStack.push("Data");    // Add an element to top of the Stack
+		myStack.push("Edward");
 		
 		System.out.println("Displaying elements in myStack: ");
 		
